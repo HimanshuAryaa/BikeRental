@@ -80,4 +80,4 @@ bike-rental-system/
 
 - Developed by Your Himanshu Arya
 
-- 🔗 [LinkedIn]("https://linkedin.com/in/himanshuaryaa") | [GitHub](https://)
+- 🔗 [LinkedIn](https://linkedin.com/in/himanshuaryaa) | [GitHub](https://https://github.com/HimanshuAryaa)
