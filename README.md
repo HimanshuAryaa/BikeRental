@@ -25,8 +25,8 @@ It demonstrates **Object-Oriented Programming (OOP)**, **loops**, and **basic in
 
 1. Clone this repository or download the file:
    ```bash
-   git clone https://github.com/your-username/bike-rental-system.git
-   cd bike-rental-system 
+   git clone https://github.com/HimanshuAryaa/BikeRental.git
+   cd BikeRental
    ```
 2. Run the program:
    ```bash
