@@ -64,7 +64,7 @@ Thank You for renting! Remaining stock: 197
 ```
 ## 📂 Project Structure
 ```
-bike-rental-system/
+BikeRental/
 │── bike_rental.py   # Main source code
 │── README.md        # Documentation
 ```
